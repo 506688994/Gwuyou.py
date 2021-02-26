@@ -1,0 +1,9 @@
+output
+
+__pycache__
+*.zip
+venv
+.idea
+/install/*
+!/install/CMD_Pyinstaller.bat
+PyQt5-uart-helper.spec
